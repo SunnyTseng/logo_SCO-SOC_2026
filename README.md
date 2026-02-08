@@ -9,7 +9,24 @@ Visual design for the SCO-SOC conference. The logo will be used on websites, and
 - Virtual conference
 
 ## Product
-TBD
+
+version 2 (2026 Feb.07)
+Logo         |  Rough preview on t-shirt
+:-------------------------:|:-------------------------:
+![](./docs/product/logo_v2.png) |  ![](./docs/product/tshirt_v2.png)
+
+
+
+
+
+version 1 (2026 Feb.07)
+
+Logo         |  Rough preview on t-shirt
+:-------------------------:|:-------------------------:
+![](/docs/product/logo_v1.png) |  ![](./docs/product/tshirt_v1.png)
+
+
+
 
 
 ## Schedule
@@ -18,4 +35,7 @@ TBD
 - Draft design for Mat, Steffi, and Ann: Feb.10
 - Final version and newspaper release: Feb.15
 
+
+## Compensation
+- 500 CAD (email communication on Jan.15 - "SCO Conference - Website and Logo")
 
