@@ -10,16 +10,20 @@ Visual design for the SCO-SOC conference. The logo will be used on websites, and
 
 ## Product
 
-version 2 (2026 Feb.07)
+
+#### version 3 (2026 Feb.12)
+
+Download: [PNG](./docs/product/logo_v3.png) (raster), [SVG](./docs/product/logo_v3.svg) (vector)
+
+![](./docs/product/logo_v3.png)
+
+#### version 2 (2026 Feb.07)
 Logo         |  T-shirt mockup
 :-------------------------:|:-------------------------:
 ![](./docs/product/logo_v2.png) |  ![](./docs/product/tshirt_v2.png)
 
 
-
-
-
-version 1 (2026 Feb.07)
+#### version 1 (2026 Feb.07)
 
 Logo         |  T-shirt mockup
 :-------------------------:|:-------------------------:
